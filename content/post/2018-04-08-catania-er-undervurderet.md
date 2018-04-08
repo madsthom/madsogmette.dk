@@ -1,5 +1,5 @@
 ---
-title: Først post - Catania er undervurderet
+title: Første post - Catania er undervurderet
 author: Mads&Mette
 date: '2018-04-08'
 slug: catania-er-undervurderet
@@ -15,7 +15,7 @@ Turen er startet! Vi fløj fra Billund d. 5. april kl. 07:15, mellemlandede i Pa
 
 Da vi var kommet lidt på plads, gik vi på jagt efter aftensmad, men vi var alt for tidligt på den, da Italienerne først spiser aftensmad omkring kl. 21. Vi spankulerede lidt rundt og fik langt om længe pizza (store, men utroligt lækre!). Trætte og udmattede sov vi 10 timer. 
 
-Dagen efter startede vi med at besøge markedet. Det ligger lige udenfor vores hoveddør og er et meget populært sted, både for turister og de lokale. Det har åbent man-lør fra 07-14. De har ALT! Kartofler, citroner, auberginer, tomater, broccoli, peberfrugter, artiskokker, ost, nødder, krydderier, kød, frisk osv. osv. - vi fik jordbær, appelsiner, clementiner, aubergine, løg og hvidløg for et par euro!
+Dagen efter startede vi med at besøge markedet. Det ligger lige udenfor vores hoveddør og er et meget populært sted, både for turister og de lokale. Det har åbent man-lør fra 07-14. De har ALT! Kartofler, citroner, auberginer, tomater, broccoli, peberfrugter, artiskokker, ost, nødder, krydderier, kød, fisk osv. osv. - vi fik jordbær, appelsiner, clementiner, aubergine, løg og hvidløg for et par euro!
 
 <img src = "/img/P1000270.JPG", width = "544" height = "408">
 
