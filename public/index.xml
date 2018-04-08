@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mads &amp; Mette</title>
+    <link>/</link>
+    <description>Recent content on Mads &amp; Mette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-da</language>
+    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catania er undervurderet</title>
+      <link>/2018/04/08/catania-er-undervurderet/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/08/catania-er-undervurderet/</guid>
+      <description>Torsdag d. 5. april til søndag d. 8. april Turen er startet! Vi fløj fra Billund d. 5. april kl. 07:15, mellemlandede i Paris&amp;rsquo; CDG, og landede i Catania kl. 16:05. Vores første AirBNB-host, Attilio, hentede os i sin bil - det var med nød og næppe at vores cykler kunne være der, så det var en tætpakket og varm tur indtil byen. Vi fik en masse råd og et kort over centrum af ham.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Dette er vores forsøg på at lave en blog om vores 4 måneder lange cykel tur igennem Italien.</description>
+    </item>
+    
+  </channel>
+</rss>
