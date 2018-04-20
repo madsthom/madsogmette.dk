@@ -71,7 +71,7 @@ Fredag d. 20. april: vi har sovet godt - I EN SENG! Vi stod sent op og gik rundt
 
 Vi fik en dejlig frokost ude, dog kom vi af med 30 euro, som er det dyreste vi har betalt for mad hernede! Men vi havde årsdag i går, 6 år, så vi retfærdiggjorde den dyre frokost med det ;) 
 
-<img src = "/img/P1010053.JPG", width = "544" height = "408">
+<img src = "/img/P1010053.JPG", width = "408" height = "544">
 
 Siesta i lejligheden, inden vi gik ned mod stranden og Isola Bella, som er endnu en turistattraktion. 
 
