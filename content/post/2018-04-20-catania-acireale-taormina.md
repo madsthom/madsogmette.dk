@@ -13,9 +13,17 @@ tags: []
 
 Mandag og tirsdag var ikke begivenhedsrige, da Mette var syg. Onsdag d. 11. april var vi dog klar til at gå på opdagelse igen! Vi brugte dagen på at gå op ad hovedgaden Via Etna og vi fandt nogle store supermarkeder, hvor vi fandt lidt mad som vi tager med os videre på campigpladsen. Vi tog et lille testrun på cyklerne ned ad stranden og vi nåede helt ned til lufthavnen, før vi vendte om igen. Super skøn tur i aftensolen. 
 
+<img src = "/img/P1000394.JPG", width = "544" height = "408">
+
 ### Camping ved Acireale og Mt. Etna
 
-Torsdag d. 12. april, kl. 10:00, cyklede vi mod La Timpa International Camping. Vi cyklede langs kysten og der var faktisk cykelsti lidt ad vejen (selvfølgelig med store afspærringer, så folk ikke kan bruge det som parkering, da de ellers parkerer alle steder, de kan komme til)! Dejlig tur, og billisterne er faktisk bedre til at holde afstand end forventet! Vi cyklede helt klart for sent afsted, da solen nåede at blive meget varm, så det var utrolig hårdt. Lige før Acireale mødte vi en anden rytter på vejen, som hedder Alessandro. Han tog os med hen på sin yndligscafé for at få ægte siciliensk lokalmad: Granita (en lokal is uden mælk) og Brioche (en stor bolle, som smager lidt af pandekager). Vi fik masser af råd af ham omkring Italien og seværdighederne på Sicilien! Vi satte telt op på campingpladsen og gik på opdagelse i Acireale. Campingpladsen ligger ikke i Acireale, men i en lille flække kaldet Santa Maria, så vi må gå et godt stykke opad igennem en masse hårnålesving for at komme op til den store by. Utrolig god beliggenhed til vores telt - bogstavelig talt lige over kysten! 
+Torsdag d. 12. april, kl. 10:00, cyklede vi mod La Timpa International Camping. Vi cyklede langs kysten og der var faktisk cykelsti lidt ad vejen (selvfølgelig med store afspærringer, så folk ikke kan bruge det som parkering, da de ellers parkerer alle steder, de kan komme til)! Dejlig tur, og billisterne er faktisk bedre til at holde afstand end forventet! Vi cyklede helt klart for sent afsted, da solen nåede at blive meget varm, så det var utrolig hårdt. Lige før Acireale mødte vi en anden rytter på vejen, som hedder Alessandro. Han tog os med hen på sin yndligscafé for at få ægte siciliensk lokalmad: Granita (en lokal is uden mælk) og Brioche (en stor bolle, som smager lidt af pandekager). Vi fik masser af råd af ham omkring Italien og seværdighederne på Sicilien! 
+
+(Billede)
+
+Vi satte telt op på campingpladsen og gik på opdagelse i Acireale. Campingpladsen ligger ikke i Acireale, men i en lille flække kaldet Santa Maria, så vi må gå et godt stykke opad igennem en masse hårnålesving for at komme op til den store by. Utrolig god beliggenhed til vores telt - bogstavelig talt lige over kysten! 
+
+(billede)
 
 Fredag og lørdag har vi slappet af og brugt vores tid sammen med et fransk par i slutningen af 20'erne, som har slået telt op ved siden af os. De er rigtig søde og hedder Charlotte og Florian. Og vi har endelig fundet klipklapper! Meget vigtigt på en campingplads! Flo og Charlot vil også gerne se Etna, og tilfældet ville det, at campingpladsen arrangerer guidede ture derop, så vi har alle fire meldt os på til søndag! 
 
@@ -23,14 +31,20 @@ ETNA søndag d. 15. april! Fantastisk dag! Vores guide hentede os kl. 9:30 på c
 
 (billede)
 
-Andet stop var i vejkanten på en lille p-plads, hvor det var tid til at besøge en lavahule under jorden! Vi fik hjelme og lys på og begav os ned i den underjordiske gang af lava. Det var overraskende stort indvendigt og mange meter højt til loftet de mest åbne steder. Loftet var fyldt med små dryp af det, der engang har været flydende sten. Gangen var 200 meter lang. Man gætter på at der er flere tusinde lavagange rundt på Sicilien, men man kan ikke finde dem, da de er umulige at se, hvis der ikke er naturlige huller (vi fik en meget teknisk forklaring, som er for svær at gengive på tekst..). 
+Andet stop var i vejkanten på en lille p-plads, hvor det var tid til at besøge en lavahule under jorden! Vi fik hjelme og lys på og begav os ned i den underjordiske gang af lava. Det var overraskende stort indvendigt og mange meter højt til loftet de mest åbne steder. Loftet var fyldt med små dryp af det, der engang har været flydende sten. Gangen var 200 meter lang. Man gætter på at der er flere tusinde lavagange rundt på Sicilien, men man kan ikke finde dem, da de er umulige at se, hvis der ikke er naturlige huller til overfladen (vi fik en meget teknisk forklaring, som er for svær at gengive på tekst..). 
 
 (Billede)
 
-Tredje stop var ved Etnas hovedkratere, hvor der er en stor restaurent og busholdepladser. Vi fik vandrestave og begav os afsted! Vi startede med at følge stierne, men indså hurtigt, hvorfor det var det helt rigtige valg at have guide med: vi var off-road!! Og det er altså farligt uden guide, da vi gik forbi en virkelig dårligt afspærret lodret skakt ned i jorden på 300 m. - som vores guide sagde: "game over", hvis man falder derned! Sne om vinteren gør det ekstra farligt at stå off-road på ski og flere har mistet livet i disse farlige huller. Vi passerede flere kratere og spiste frokost højt oppe ved et af de store. Der var sne, så drengene skulle selvfølgelig lige smide et par bolde efter hinanden ;). 
-Vi skulle jo ned igen og det hurtigste var da at løbe! Der var en stor skråning fyldt med bittesmå sten, nærmest sand af lava, som vi løb nedad - vildt morsomt og grænskeoverskridende!
+Tredje stop var ved Etnas hovedkratere, hvor der er en stor restaurent og busholdepladser. Vi fik vandrestave og begav os afsted! Vi startede med at følge stierne, men indså hurtigt, hvorfor det var det helt rigtige valg at have guide med: vi var off-road!! Og det er altså farligt uden guide, da vi gik forbi en virkelig dårligt afspærret lodret skakt ned i jorden på 300 m. - som vores guide sagde: "game over", hvis man falder derned! Sne om vinteren gør det ekstra farligt at stå off-road på ski og flere har mistet livet i disse farlige huller. 
 
-Vi fik sagt stor tak til vores guide for en uforglemmelig dag - helt klart pengene værd (60 euro pr. mand)! Vi hyggede med aftensmad, vin og øl på pizzariaet på campingpladsen med Charlot og Flo. De tog videre dagen efter, så vi var alene igen og hyggede i det gode vejr. 
+(billede)
+
+Vi passerede flere kratere og fik en masse information om jordens sammensætning af mineraler og metaller. Vi nåede endelig vores mål og spiste frokost højt oppe ved et af de store kratere. Der var sne, så drengene skulle selvfølgelig lige smide et par bolde efter hinanden ;). Vi skulle jo ned igen og det hurtigste var da at løbe! Der var en stor skråning fyldt med bittesmå sten, nærmest sand af lava, som vi løb nedad - vildt morsomt og grænskeoverskridende!
+
+(billede)
+(i baggrunden kan man næsten se hele vores off-road rute - afstandene er store, så lad jer ikke snyde). 
+
+Vi fik sagt stor tak til vores guide for en uforglemmelig dag - helt klart pengene værd (60 euro pr. mand)! Det skulle have taget 6 timer, fra 9-15, men vi var vist først hjemme lidt i 18! Vi hyggede med aftensmad, vin og øl på pizzariaet på campingpladsen med Charlot og Flo. De tog videre dagen efter, så vi var alene igen og hyggede i det gode vejr. 
 
 ### To dage i Taormina
 
@@ -42,7 +56,15 @@ Fredag d. 20. april: vi har sovet godt - I EN SENG! Vi stod sent op og gik rundt
 
 (billede)
 
-Vi fik en dejlig frokost ude, dog kom vi af med 30 euro, som er det dyreste vi har betalt for mad hernede! Men vi havde årsdag i går, 6 år, så vi retfærdiggjorde den dyre frokost med det ;) Siesta i lejligheden, inden vi gik ned mod stranden og Isola Bella, som er endnu en turistattraktion. Skønt, skønt, vejr hele dagen og vi har da også fået vasket lidt tøj, nu hvor vi endelig har en vaskemaskine! Vi spiser billig aftensmad i lejligheden og gør os klar til i morgen, hvor vi cykler mod Messina, hvor vi har fundet en billigere lejlighed end her! 
+Vi fik en dejlig frokost ude, dog kom vi af med 30 euro, som er det dyreste vi har betalt for mad hernede! Men vi havde årsdag i går, 6 år, så vi retfærdiggjorde den dyre frokost med det ;) 
+
+(billede)
+
+Siesta i lejligheden, inden vi gik ned mod stranden og Isola Bella, som er endnu en turistattraktion. 
+
+(billede)
+
+Skønt, skønt, vejr hele dagen og vi har da også fået vasket lidt tøj, nu hvor vi endelig har en vaskemaskine! Vi spiser billig aftensmad i lejligheden og gør os klar til i morgen, hvor vi cykler mod Messina, hvor vi har fundet en billigere lejlighed end her! 
 
 Kram og knus,
 Mette & Mads <3 
