@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-da"
 title = "Mads & Mette"
 theme = "hugo-lithium-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-84549500-2"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
